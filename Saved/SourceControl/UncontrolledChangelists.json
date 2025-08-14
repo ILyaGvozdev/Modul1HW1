@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/51/AB9VGGSPUECS8CIMMUT8LW.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H9/SQIJROND04S0IAPLVO461L.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/Blueprints/BP_TrafficLightsManager.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/Blueprints/Materials/M_TrafficColor.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/Blueprints/BP_TraffictLight.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6D/SXF8U4PNYJO15CG9P43C2X.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Z9/UBSU9CYXHXDVX8XD5L3507.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/Blueprints/S_LIghtColor.uasset",
+				"/Users/ilyagvozdev/Documents/Unreal Projects/HW/HW_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/17/3FMZ9183VMHA77LLPXVZOI.uasset"
+			]
+		}
+	]
+}
