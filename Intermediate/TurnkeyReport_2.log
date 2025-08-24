@@ -1,0 +1,2 @@
+IOS: (Status=Invalid, MinAllowed_Sdk=13.4.0, MaxAllowed_Sdk=14.9.9, Current_Sdk=16.4, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="InstalledSdk_InvalidVersionExists, Platform_ValidHostPrerequisites")
+Mac: (Status=Invalid, MinAllowed_Sdk=13.4.0, MaxAllowed_Sdk=14.9.9, Current_Sdk=16.4, Allowed_AutoSdk=13.3, Current_AutoSdk=, Flags="InstalledSdk_InvalidVersionExists, Platform_ValidHostPrerequisites")
